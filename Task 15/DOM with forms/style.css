@@ -1,0 +1,22 @@
+.form-container {
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 48%;
+}
+.head {
+  align-items: center;
+  justify-content: center;
+  margin-left: 17%;
+  margin-right: 7%;
+  border: 1px solid #ccc;
+  background-color: rgb(229, 233, 232);
+}
+.main-form {
+  margin-left: 7%;
+}
+.one {
+  margin-left: 7%;
+}
